@@ -1,0 +1,10 @@
+{
+  "disabledMcpjsonServers": [
+    "probecodex"
+  ],
+  "permissions": {
+    "allow": [
+      "mcp__aws-mcp-optimizer__get_cpu_statistics"
+    ]
+  }
+}
