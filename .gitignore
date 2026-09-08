@@ -2,7 +2,7 @@
 node_modules/
 
 # Enviroment files
-.env
+.env*
 
 # Build outputs
 dist/
