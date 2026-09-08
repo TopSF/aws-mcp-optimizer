@@ -12,3 +12,6 @@ dist/
 
 # logs
 logs
+
+# Claude local settings
+.claude/
